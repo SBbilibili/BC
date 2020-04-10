@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionBarLight">#3F51B5</color>
+    <color name="actionBarDark">#888888</color>
+    <color name="ldrawer_color">#FFFFFF</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="qr_blue">#FF0099CC</color>
+	<color name="uvv_green">#ff50b100</color>
+    <color name="uvv_black">#ff000000</color>
+    <color name="uvv_light_gray">#ffF0F0F0</color>
+    <color name="uvv_gray">#ffbbbbbb</color>
+    <color name="uvv_titlebar_bg">#7f000000</color>
+	
+</resources>
